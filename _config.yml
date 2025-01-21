@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: IDLE's Second Brain # the main title
 
-tagline:  IT / Dev Blog  # it will display as the subtitle
+tagline: IT / Dev Blog  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog to remember attempts at 
